@@ -6,9 +6,30 @@
     <description>Recent content in Home on Alexander Bulimov: Production Engineer and Scale Modeller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//bulimov.me/index.xml" rel="self" type="application/rss+xml" />
-    <item>                                                                                                                                                                            <title>Moved to a new domain</title>                                                                                                                                            <link>//bulimov.me/post/2022/09/25/moved-to-new-domain/</link>                                                                                                                  <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>                                                                                                                                                                                                                                                                                                              <guid>//bulimov.me/post/2022/09/25/moved-to-new-domain/</guid>                                                                                                                  <description>This site just moved to a new domain bulimov.me. Long overdue move of course, I bought the new domain years ago&amp;hellip;                                  Anyway, the only interesting bit about this is how I&amp;rsquo;m trying to keep the old links alive with a little bit of HTML magic.                                            Using a very basic python script I&amp;rsquo;ve created a dedicated github repo with a directory structure mirroring this site, where each index.html consists of something like this:</description>
+    <lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="//bulimov.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Year With Xbox</title>
+      <link>//bulimov.me/post/2022/10/03/year-with-xbox/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//bulimov.me/post/2022/10/03/year-with-xbox/</guid>
+      <description>About a year ago I made a decision not to continue with PlayStation as my main console, and switch to Xbox Series instead. It was a risk, as I have been a reasonably happy PS customer through PS3 and PS4 eras.
+Now, after a year with Xbox Series S I can sum up my experience and compare notes.
+tldr; It is great and I’m very happy with this decision.
+I can safely say that all the hopes I put into switching to Xbox have realized!</description>
     </item>
+    
+    <item>
+      <title>Moved to a new domain</title>
+      <link>//bulimov.me/post/2022/09/25/moved-to-new-domain/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//bulimov.me/post/2022/09/25/moved-to-new-domain/</guid>
+      <description>This site just moved to a new domain bulimov.me. Long overdue move of course, I bought the new domain years ago&amp;hellip;
+Anyway, the only interesting bit about this is how I&amp;rsquo;m trying to keep the old links alive with a little bit of HTML magic.
+Using a very basic python script I&amp;rsquo;ve created a dedicated github repo with a directory structure mirroring this site, where each index.html consists of something like this:</description>
+    </item>
+    
     <item>
       <title>Code-like linting for prose</title>
       <link>//bulimov.me/post/2022/01/16/prose-lint/</link>
@@ -849,8 +870,8 @@ Packetbeat это такой инструмент мониторинга, кот
       <guid>//bulimov.me/reviews/</guid>
       <description>Here you can find my review scores for:
 video games I played musical albums I bought and books I read All scores are given on a scale from 0 to 10, with exceptional titles given 11 (because why not?).
-I&amp;rsquo;m writing down my mini-reviews for games, books and music since 2013, just for fun.
-Games Name Score 2021 Forza Horizon 4 (Xbox Series S) 10 Wasteland 3 (Xbox Series S) 9 Fallout: New Vegas (Xbox Series S) 9 The Ascent (Xbox Series S) 9 Cosmic Star Heroine (Switch) 9 Children of Morta (Switch) 9 Ara Fell: Enhanced Edition (Switch) 8 Sable (Xbox Series S) 8 Hellblade: Senua&amp;rsquo;s Sacrifice (PS4) 8 Shadows of Adam (Switch) 8 Valkyria Chronicles 4 (Switch) 8 The Outer Worlds (PS4) 8 Legend of Zelda: Link’s Awakening (Switch) 8 Luigi’s Mansion 3 (Switch) 7 The Technomancer (PS4) 7 Spaceland (Switch) 6 Fable Anniversary (Xbox Series S) 6 Metro Last Light (PS4) 6 Dragon Quest XI demo (Switch) 5 Transistor (Switch) 3 2020 Snowrunner (PS4) 11 Spintires: Mudrunner (Switch) 9 Moonlighter (Switch) 9 Marvel’s Spider-Man (PS4) 8 Far Cry Primal (PS4) 8 Batman: Arkham Knight (PS4) 8 Firewatch (PS4) 8 Far Cry New Dawn (PS4) 7 Ratchet and Clank (PS4) 7 Vampyr (PS4) 7 Far Cry 3 (PS4) 7 Far Cry 5 DLC (Lost on Mars, Vietnam) 6 Bastion (Switch) 6 2019 Assassins Creed Odyssey (PS4) 10 Elex (PS4) 10 God of War (PS4) 10 West of Loathing (Switch) 10 Wargroove (Switch) 9 Greedfall (PS4) 9 Mario + Rabbids Kingdom Battle.</description>
+I&amp;rsquo;m writing my mini-reviews for games, books and music since 2013, just for fun.
+Games Name Score 2022 Tinykin (Xbox Series S) 10 Kirby and the Forgotten Land (Switch) 10 Wintermoor Tactics Club (Switch) 10 Snowrunner Year 1 (Xbox Series S) 9 HOB Definitive Edition (Switch) 9 Pathway (Switch) 8 Phoenotopia: Awakening (Switch) 8 Fallout 3 (Xbox Series S) 7 Battle Chasers: Nightwar (Switch) 7 Nobody Saves The World (Xbox Series S) 6 Death’s Door (Xbox Series S) 6 2021 Forza Horizon 4 (Xbox Series S) 10 Wasteland 3 (Xbox Series S) 9 Fallout: New Vegas (Xbox Series S) 9 The Ascent (Xbox Series S) 9 Cosmic Star Heroine (Switch) 9 Children of Morta (Switch) 9 Ara Fell: Enhanced Edition (Switch) 8 Sable (Xbox Series S) 8 Hellblade: Senua&amp;rsquo;s Sacrifice (PS4) 8 Shadows of Adam (Switch) 8 Valkyria Chronicles 4 (Switch) 8 The Outer Worlds (PS4) 8 Legend of Zelda: Link’s Awakening (Switch) 8 Luigi’s Mansion 3 (Switch) 7 The Technomancer (PS4) 7 Spaceland (Switch) 6 Fable Anniversary (Xbox Series S) 6 Metro Last Light (PS4) 6 Cthulhu Saves Christmas (Switch) 5 Dragon Quest XI demo (Switch) 5 Transistor (Switch) 3 2020 Snowrunner (PS4) 11 Spintires: Mudrunner (Switch) 9 Moonlighter (Switch) 9 Marvel’s Spider-Man (PS4) 8 Far Cry Primal (PS4) 8 Batman: Arkham Knight (PS4) 8 Firewatch (PS4) 8 Far Cry New Dawn (PS4) 7 Ratchet and Clank (PS4) 7 Vampyr (PS4) 7 Far Cry 3 (PS4) 7 Far Cry 5 DLC (Lost on Mars, Vietnam) 6 Bastion (Switch) 6 2019 Assassins Creed Odyssey (PS4) 10 Elex (PS4) 10 God of War (PS4) 10 West of Loathing (Switch) 10 Wargroove (Switch) 9 Greedfall (PS4) 9 Mario + Rabbids Kingdom Battle.</description>
     </item>
     
   </channel>
